@@ -2,4 +2,4 @@
 
 | S.No. |                          Solution (**Code**)                          |               Platform (**Problem**)                |
 | :---: | :-------------------------------------------------------------------: | :-------------------------------------------------: |
-|   1   | [Kattis - fastfood](/Day%2001%20-%20190223/Kattis%20-%20fastfood.cpp) | [Kattis](https://open.kattis.com/problems/fastfood) |
+|   1   | [Kattis - fastfood](/Day%2002%20-%20200223/Kattis%20-%20fastfood.cpp) | [Kattis](https://open.kattis.com/problems/fastfood) |
