@@ -1,10 +1,8 @@
-# 100DaysOfCode
+# 100 Days Of Code
 
 Repository containing daywise problems solved in the **100 Days Of Code** challenge.
 
-## Round 1 Progress
-
-### _Sunday, 19 February 2023_ to _Monday, 29 May 2023_
+## Round 1 (_Sunday, 19 February 2023_ to _Monday, 29 May 2023_)
 
 | Day |                         Date                          | Problems Solved |  Platforms  |
 | :-: | :---------------------------------------------------: | :-------------: | :---------: |
