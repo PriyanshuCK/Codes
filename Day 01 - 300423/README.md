@@ -3,3 +3,6 @@
 | S.No. |                                  Solution (**Code**)                                  |                   Platform (**Problem**)                    |
 | :---: | :-----------------------------------------------------------------------------------: | :---------------------------------------------------------: |
 |   1   | [Kattis - armystrengtheasy](/Day%2001%20-%20300423/Kattis%20-%20armystrengtheasy.cpp) | [Kattis](https://open.kattis.com/problems/armystrengtheasy) |
+|   2   | [Kattis - armystrengthhard](/Day%2001%20-%20300423/Kattis%20-%20armystrengthhard.cpp) | [Kattis](https://open.kattis.com/problems/armystrengthhard) |
+|   3   |     [Kattis - sevenwonders](/Day%2001%20-%20300423/Kattis%20-%20sevenwonders.cpp)     |   [Kattis](https://open.kattis.com/problems/sevenwonders)   |
+|   4   |    [Kattis - yinyangstones](/Day%2001%20-%20300423/Kattis%20-%20yinyangstones.cpp)    |  [Kattis](https://open.kattis.com/problems/yinyangstones)   |
