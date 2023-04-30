@@ -8,7 +8,7 @@ Repository containing daywise problems solved in the **100 Days Of Code** challe
 
 | Kattis | UVa | Codeforces |
 | :----: | :-: | :--------: |
-|   0    |  0  |     0      |
+|   1    |  0  |     0      |
 
 ### Contests
 
@@ -20,4 +20,4 @@ Repository containing daywise problems solved in the **100 Days Of Code** challe
 
 | Day |                      Date                       | Problems Solved | Platforms |
 | :-: | :---------------------------------------------: | :-------------: | :-------: |
-|  1  | [Sunday, 30 April 2023](/Day%2001%20-%20300423) |        0        |     -     |
+|  1  | [Sunday, 30 April 2023](/Day%2001%20-%20300423) |        1        |  Kattis   |
