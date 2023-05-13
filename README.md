@@ -2,13 +2,13 @@
 
 Repository containing daywise problems solved in the **100 Days Of Code** challenge.
 
-## Round 1 (_Sunday, 30 April 2023_ to _Monday, 07 August 2023_)
+## Round 1 (_Thursday, 11 May 2023_ to _Friday, 18 August 2023_)
 
 ### Total Problems Solved
 
 | Kattis | UVa | Codeforces |
 | :----: | :-: | :--------: |
-|   4    |  1  |     0      |
+|   2    |  2  |     0      |
 
 ### Contests
 
@@ -18,6 +18,8 @@ Repository containing daywise problems solved in the **100 Days Of Code** challe
 
 ### Codes
 
-| Day |                      Date                       | Problems Solved |  Platforms  |
-| :-: | :---------------------------------------------: | :-------------: | :---------: |
-|  1  | [Sunday, 30 April 2023](/Day%2001%20-%20300423) |        5        | Kattis, UVa |
+| Day |                      Date                       | Problems Solved | Platforms |
+| :-: | :---------------------------------------------: | :-------------: | :-------: |
+|  1  | [Thursday, 11 May 2023](/Day%2001%20-%20110523) |        2        |    UVa    |
+|  2  |  [Friday, 12 May 2023](/Day%2001%20-%20120523)  |        1        |  Kattis   |
+|  3  | [Saturday, 13 May 2023](/Day%2001%20-%20130523) |        1        |  Kattis   |
