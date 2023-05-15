@@ -21,8 +21,8 @@ Repository containing daywise problems solved in the **100 Days Of Code** challe
 | Day |                      Date                       | Problems Solved |    Platforms     |
 | :-: | :---------------------------------------------: | :-------------: | :--------------: |
 |  1  | [Thursday, 11 May 2023](/Day%2001%20-%20110523) |        2        |       UVa        |
-|  2  |  [Friday, 12 May 2023](/Day%2001%20-%20120523)  |        1        |      Kattis      |
-|  3  | [Saturday, 13 May 2023](/Day%2001%20-%20130523) |        3        | Kattis, Leetcode |
-|  4  | [Saturday, 14 May 2023](/Day%2001%20-%20130523) |        3        |  GeeksforGeeks   |
-|  5  | [Saturday, 15 May 2023](/Day%2001%20-%20130523) |        1        |  GeeksforGeeks   |
+|  2  |  [Friday, 12 May 2023](/Day%2002%20-%20120523)  |        1        |      Kattis      |
+|  3  | [Saturday, 13 May 2023](/Day%2003%20-%20130523) |        3        | Kattis, Leetcode |
+|  4  | [Saturday, 14 May 2023](/Day%2004%20-%20140523) |        3        |  GeeksforGeeks   |
+|  5  | [Saturday, 15 May 2023](/Day%2005%20-%20150523) |        1        |  GeeksforGeeks   |
 |  -  |                      Total                      |       10        |        -         |
