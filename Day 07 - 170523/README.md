@@ -1,0 +1,7 @@
+# Day 07: Thursday, 17 May 2023
+
+| S.No. |                                                                            Solution (Code)                                                                            |                                                  Platform (Problem)                                                   |
+| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
+|   1   | [GeeksforGeeks - find-all-factorial-numbers-less-than-or-equal-to-n3548](/Day%2007%20-%20170523/GFG%20-%20find-all-factorial-numbers-less-than-or-equal-to-n3548.cpp) | [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/find-all-factorial-numbers-less-than-or-equal-to-n3548/1) |
+|   2   |                                  [GeeksforGeeks - palindrome-string0817](/Day%2007%20-%20170523/GFG%20-%20palindrome-string0817.cpp)                                  |                 [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)                  |
+|   3   |                    [GeeksforGeeks - print-first-n-fibonacci-numbers1002](/Day%2007%20-%20170523/GFG%20-%20print-first-n-fibonacci-numbers1002.cpp)                    |          [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1)           |
