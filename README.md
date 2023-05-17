@@ -20,7 +20,7 @@ Repository containing daywise problems solved in the **100 Days Of Code** challe
 
 | Day |                 Date                  | Problems Solved |    Platforms     |                      Journal                       |
 | :-: | :-----------------------------------: | :-------------: | :--------------: | :------------------------------------------------: |
-|  6  | [16 May 2023](/Day%2005%20-%20160523) |        0        |        -         | [Tuesday](https://priyanshusharma.dev/tue-160523)  |
+|  6  | [16 May 2023](/Day%2006%20-%20160523) |        0        |        -         | [Tuesday](https://priyanshusharma.dev/tue-160523)  |
 |  5  | [15 May 2023](/Day%2005%20-%20150523) |        1        |  GeeksforGeeks   |  [Monday](https://priyanshusharma.dev/mon-150523)  |
 |  4  | [14 May 2023](/Day%2004%20-%20140523) |        3        |  GeeksforGeeks   |  [Sunday](https://priyanshusharma.dev/sun-140523)  |
 |  3  | [13 May 2023](/Day%2003%20-%20130523) |        3        | Kattis, Leetcode | [Saturday](https://priyanshusharma.dev/sat-130523) |
