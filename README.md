@@ -8,7 +8,7 @@ Repository containing daywise problems solved in the **100 Days Of Code** challe
 
 | Kattis | UVa | Codeforces | GeeksforGeeks | Leetcode | Coding Ninjas | Total |
 | :----: | :-: | :--------: | :-----------: | :------: | :-----------: | :---: |
-|   03   | 02  |     00     |      28       |    08    |      01       |  42   |
+|   03   | 02  |     00     |      29       |    08    |      03       |  45   |
 
 ### Contests
 
@@ -20,6 +20,7 @@ Repository containing daywise problems solved in the **100 Days Of Code** challe
 
 | Day |                 Date                  | Problems Solved |               Platforms                |                       Journal                       |
 | :-: | :-----------------------------------: | :-------------: | :------------------------------------: | :-------------------------------------------------: |
+| 15  | [25 May 2023](/Day%2015%20-%20250523) |       03        |      GeeksforGeeks, Coding Ninjas      | [Thursday](https://priyanshusharma.dev/thu-250523)  |
 | 14  | [24 May 2023](/Day%2014%20-%20240523) |       00        |                   -                    | [Wednesday](https://priyanshusharma.dev/wed-240523) |
 | 13  | [23 May 2023](/Day%2013%20-%20230523) |       05        |        Leetcode, GeeksforGeeks         |  [Tuesday](https://priyanshusharma.dev/tue-230523)  |
 | 12  | [22 May 2023](/Day%2012%20-%20220523) |       18        | Leetcode, GeeksforGeeks, Coding Ninjas |  [Monday](https://priyanshusharma.dev/mon-220523)   |
@@ -34,4 +35,4 @@ Repository containing daywise problems solved in the **100 Days Of Code** challe
 |  3  | [13 May 2023](/Day%2003%20-%20130523) |       03        |            Kattis, Leetcode            | [Saturday](https://priyanshusharma.dev/sat-130523)  |
 |  2  | [12 May 2023](/Day%2002%20-%20120523) |       01        |                 Kattis                 |  [Friday](https://priyanshusharma.dev/fri-120523)   |
 |  1  | [11 May 2023](/Day%2001%20-%20110523) |       02        |                  UVa                   | [Thursday](https://priyanshusharma.dev/thu-110523)  |
-|  -  |                 Total                 |       42        |                   -                    |                          -                          |
+|  -  |                 Total                 |       45        |                   -                    |                          -                          |
