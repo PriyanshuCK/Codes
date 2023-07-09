@@ -4,27 +4,15 @@
 #include <bits/stdc++.h>
 using namespace std;
 #define endl "\n"
-void sort012(int a[], int n)
+void pushZerosToEnd(int arr[], int n)
 {
-    int low = 0, mid = 0, high = n - 1;
-    while (mid <= high)
+    int nextNonZeroIndx = 0;
+    for (int i = 0; i < n; i++)
     {
-        switch (a[mid])
+        if (arr[i] != 0)
         {
-        case 0:
-            swap(a[low], a[mid]);
-            low++;
-            mid++;
-            break;
-        case 1:
-            mid++;
-            break;
-        case 2:
-            swap(a[high], a[mid]);
-            high--;
-            break;
-        default:
-            break;
+            swap(arr[nextNonZeroIndx], arr[i]);
+            nextNonZeroIndx++;
         }
     }
 }
@@ -41,12 +29,11 @@ int main()
     {
         cin >> a[i];
     }
-    sort012(a, n);
+    pushZerosToEnd(a, n);
     for (int i = 0; i < n; i++)
     {
         cout << a[i] << " ";
     }
     cout << endl;
-
     return 0;
 }
